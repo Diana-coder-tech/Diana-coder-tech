@@ -8,8 +8,14 @@ I'm a Frontend-developer with more than 3 years of experience working in an IT-c
 
 In my free time, I actively develop in programming, read books and I am interested in psychology. I'd like to continue developing in the advanced IT field, improving my skills, never stop learning and striving to create large and useful services in a team of like-minded people. I am currently studying for the profession of "Frontend developer" at the Hexlet School of Programming and have already implemented 2 educational projects. 
 
-My skills and knowledge include: 
-- JavaScript Basics; - Basic knowledge of HTML and CSS; - The ability to make up based on the pixel-perfect principle; - Working with UI frameworks and libraries, mainly React and Vue; - Knowledge of the HTTP protocol; - Work with graphic editors (mainly Adobe Photoshop); - Working with Git and
+*My skills:*
+- JavaScript;
+- Basic knowledge of HTML and CSS;
+- The ability to make up based on the pixel-perfect principle;
+- Working with UI frameworks and libraries, mainly React;
+- Knowledge of the HTTP protocol;
+- Work with graphic editors (mainly Adobe Photoshop);
+- Working with Git
 
 *   🌍  I'm based in Orel, Russia
 *   🖥️  See my portfolio at [GitHub in my repositories](http://https://github.com/Diana-coder-tech?tab=repositories)
