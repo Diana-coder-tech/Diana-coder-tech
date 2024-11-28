@@ -10,12 +10,12 @@ In my free time, I actively develop in programming, read books and I am interest
 
 *My skills:*
 - JavaScript
-- Basic knowledge of HTML and CSS
-- The ability to make up based on the pixel-perfect principle
-- Working with UI frameworks and libraries, mainly React
-- Knowledge of the HTTP protocol
-- Work with graphic editors (mainly Adobe Photoshop)
-- Working with Git
+- HTML5 and CSS
+- Pixel-perfect layout
+- React
+- HTTP protocol
+- Adobe Photoshop
+- Git and GitHub
 
 *   🌍  I'm based in Orel, Russia
 *   🖥️  See my portfolio at [GitHub in my repositories](http://https://github.com/Diana-coder-tech?tab=repositories)
