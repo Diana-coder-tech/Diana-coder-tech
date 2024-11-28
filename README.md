@@ -16,6 +16,7 @@ In my free time, I actively develop in programming, read books and I am interest
 - HTTP protocol
 - Adobe Photoshop
 - Git and GitHub
+- Automatic testing
 
 *   🌍  I'm based in Orel, Russia
 *   🖥️  See my portfolio at [GitHub in my repositories](http://https://github.com/Diana-coder-tech?tab=repositories)
