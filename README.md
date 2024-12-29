@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend-developer
 ------------------
 
-I'm a Frontend-developer with more than 3 years of experience working in an IT-company as a sales manager. I have a passionate interest in the field of development and programming. I am interested in developing the structure of projects, implementing them using code and observing the results. 
+I have more than 3 years of experience working in an IT-company as a sales manager. I have a passionate interest in the field of development and programming. 
 
-In my free time, I actively develop in programming, read books and I am interested in psychology. I'd like to continue developing in the advanced IT field, improving my skills, never stop learning and striving to create large and useful services in a team of like-minded people. I am currently studying for the profession of "Frontend developer" at the Hexlet School of Programming and have already implemented 2 educational projects. 
+In my free time, I actively read professional books of programming and I am interested in psychology. I'd like to continue developing in the IT field, improving my skills, never stop learning and striving to create large and useful services in a team of like-minded people. I am currently studying for the profession of "Frontend developer" (JavaScript) at the Hexlet School of Programming. 
 
 *My skills:*
 - JavaScript
